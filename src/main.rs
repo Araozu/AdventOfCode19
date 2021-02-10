@@ -3,7 +3,6 @@ mod dia01;
 mod utils;
 
 fn main() {
-    println!("\n\n");
+    println!();
     dia02::run();
 }
-
