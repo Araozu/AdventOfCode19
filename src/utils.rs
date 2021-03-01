@@ -1,6 +1,6 @@
 use std::fs;
 
-const PATH: &str = "/home/araozu/Programacion/Rust/advent_19/inputs/";
+const PATH: &str = "/home/araozu/Programacion/Advent/2019/";
 
 fn get_day_string(day: u8) -> String {
     let day_s = day.to_string();
